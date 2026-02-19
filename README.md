@@ -1,9 +1,12 @@
 # NoC Project: Node + Router System Overview
+***** PROJECT STILL IN PROGRESS *****
 
 This document explains:
 1. What the **Node** does
 2. What the **Router** must do (since `Router.sv` is currently empty)
 3. How the full project works end-to-end
+
+NOTE: Design drawings can be found in the doc folder. They will be updated as I work through this project
 
 ---
 
