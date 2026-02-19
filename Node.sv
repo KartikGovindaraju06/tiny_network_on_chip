@@ -3,7 +3,6 @@
 `include "RouterPkg.pkg"
 
 //////
-////// Network on Chip (NoC) 18-341
 ////// Node module
 //////
 module Node #(parameter NODEID = 0) (
